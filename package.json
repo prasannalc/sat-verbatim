@@ -10,5 +10,8 @@
     "jsdom": "^30.0.1"
   },
   "author": "Prasanna Chandankhede",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
 }
