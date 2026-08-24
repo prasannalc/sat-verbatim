@@ -1,0 +1,14 @@
+{
+  "name": "sat-vocab-trainer",
+  "version": "1.0.0",
+  "description": "SAT Verbatim — a personal SAT vocabulary trainer covering 1,000 words, with spaced-repetition review. Built for Prasanna Chandankhede.",
+  "private": true,
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "devDependencies": {
+    "jsdom": "^30.0.1"
+  },
+  "author": "Prasanna Chandankhede",
+  "license": "UNLICENSED"
+}
